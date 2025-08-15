@@ -8,7 +8,7 @@ Currently building practical projects in Python, Pandas, and Scikit-learn — ai
 - Turning messy datasets into actionable insights
 
 📂 **Featured Projects**
-- [Loan Approval Predictor](link_to_repo) — ML model predicting loan approval likelihood  
+- [Literacy Rates Analysis]([link_to_repo](https://github.com/Elsie-Muhumuza/Literacy-Rates-Analysis)) — Analaysing Literacy rates across regions 
 - [Uganda Rainfall Trends Dashboard](link_to_repo) — Visual analytics for agriculture planning  
 - [Forex Price Pattern Analyzer](link_to_repo) — Detects market patterns from historical data
 
