@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Elsie 👋
+Civil Engineer turned **Data Science & Machine Learning enthusiast**.  
+Currently building practical projects in Python, Pandas, and Scikit-learn — aiming to solve **real-world problems**.
 
-<!--
-**Elsie-Muhumuza/Elsie-Muhumuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **What I Do**
+- Data cleaning, analysis & visualization (Pandas, Matplotlib, Seaborn)
+- Predictive modeling & classification
+- Turning messy datasets into actionable insights
 
-Here are some ideas to get you started:
+📂 **Featured Projects**
+- [Loan Approval Predictor](link_to_repo) — ML model predicting loan approval likelihood  
+- [Uganda Rainfall Trends Dashboard](link_to_repo) — Visual analytics for agriculture planning  
+- [Forex Price Pattern Analyzer](link_to_repo) — Detects market patterns from historical data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Currently Learning**
+- Advanced ML algorithms  
+- SQL for Data Science  
+- Building full data pipelines
+
+📫 **Let’s Connect**
+[LinkedIn]([https://www.linkedin.com/in/elsie-muhumuza-b6a683169/] | [Email](shafferelsie@gmail.com)
