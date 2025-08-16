@@ -1,6 +1,6 @@
 ## Hi, I'm Elsie 👋
 Civil Engineer turned **Data Science & Machine Learning enthusiast**.  
-Currently building practical projects in Python, Pandas, and Scikit-learn — aiming to solve **real-world problems**.
+Currently building practical projects in Python, Pandas, and Scikit-learn, aiming to solve **real-world problems**.
 
 💡 **What I Do**
 - Data cleaning, analysis & visualization (Pandas, Matplotlib, Seaborn)
