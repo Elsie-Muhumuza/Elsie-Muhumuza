@@ -26,11 +26,11 @@ I'm a Civil Engineer who has transitioned into the world of **Data Science and M
 
 Explore some of my work where I apply data science principles to diverse challenges:
 
-*[**Loan Eligibility Prediction**](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model) — Built a machine learning model for Dream Housing Finance to automate loan eligibility decisions. The optimized Random Forest Classifier reached 85% accuracy, streamlining approvals and improving decision reliability.
-* [**Loan Eligibility Prediction**](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model) — Applied unsupervised machine learning (K-Means, Hierarchical Clustering) to segment a credit card company's customer base into distinct profiles. This analysis successfully identified a critical "High-Risk Defaulter" segment, enabling the development of targeted risk mitigation strategies.
-* [**Global Literacy Rates Analysis**](https://github.com/Elsie-Muhumuza/Literacy-Rates-Analysis) — Conducted an in-depth data analysis to uncover regional disparities and gender gaps in global literacy, providing strategic recommendations for a non-profit organization's targeted educational interventions.
+* [**Loan Eligibility Prediction**](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model) — Built a machine learning model for Dream Housing Finance to automate loan eligibility decisions. The optimized Random Forest Classifier reached 85% accuracy, streamlining approvals and improving decision reliability.
+* [**Customer_Segmentation_Analysis**](https://github.com/Elsie-Muhumuza/Customer_Segmentation_Analysis.git) — Applied unsupervised machine learning (K-Means, Hierarchical Clustering) to segment a credit card company's customer base into distinct profiles. This analysis successfully identified a critical "High-Risk Defaulter" segment, enabling the development of targeted risk mitigation strategies.
 * [**Footwear Sales Data Analysis**](https://github.com/Elsie-Muhumuza/Footwear-Sales-Data-Analysis) — Performed visual analytics on sales data to identify key trends and patterns for a footwear company. Found top-performing brands that generated 60%+ of net profit, guiding inventory allocation and marketing strategies.
-  
+* [**Global Literacy Rates Analysis**](https://github.com/Elsie-Muhumuza/Literacy-Rates-Analysis) — Conducted an in-depth data analysis to uncover regional disparities and gender gaps in global literacy, providing strategic recommendations for a non-profit organization's targeted educational interventions.
+    
 
 ---
 
