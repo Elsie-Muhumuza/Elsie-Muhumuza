@@ -1,6 +1,6 @@
 ### **Hello, I'm Elsie Muhumuza!** 👋
 
-I'm a Civil Engineer who has transitioned into the world of **Data Science and Machine Learning**, driven by a passion for solving real-world challenges with data. My background in engineering has equipped me with a strong foundation in analytical thinking and problem-solving, which I now apply to extract actionable insights and build intelligent systems.
+A highly analytical professional with a background in Civil Engineering and specialized training in **Data Science and Machine Learning**, driven by a passion for solving real-world challenges with data. Experienced in applying machine learning, predictive modeling, and data visualization to solve real-world problems, with a strong record of managing complex projects and delivering actionable insights.
 
 ---
 
