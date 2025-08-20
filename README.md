@@ -5,10 +5,20 @@ I'm a Civil Engineer who has transitioned into the world of **Data Science and M
 ---
 
 ### **💡 My Expertise**
+- **Data Analysis & Visualization:** Transforming raw data into actionable insights using **Pandas, NumPy, Matplotlib, and Seaborn**.  
+- **Machine Learning & Predictive Modeling:** Building and evaluating models (classification, regression, decision trees, random forests) for real-world applications.  
+- **Data Preprocessing & Feature Engineering:** Cleaning data, handling missing values, and preparing datasets for robust analysis.  
+- **Collaboration & Reporting:** Documenting workflows and sharing insights clearly via Jupyter/Colab and visual reports.  
 
-* **Data Analysis & Visualization:** Proficient in transforming raw, complex datasets into clear, actionable insights using **Pandas, Matplotlib, and Seaborn**.
-* **Machine Learning & Predictive Modeling:** Experienced in developing and evaluating classification models for practical applications.
-* **Data Preprocessing:** Skilled in data cleaning, handling missing values, and engineering features to prepare data for robust analysis and modeling.
+---
+
+### **🔧 Skills & Tools**
+- **Languages:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, Logistic Regression, Decision Trees, Random Forests, Classification & Regression Models  
+- **Data Handling:** Jupyter Notebook, Google Colab, Excel, CSV/JSON handling  
+- **Version Control:** Git, GitHub  
+- **Currently Learning:** TensorFlow, Keras, Deep Learning  
 
 ---
 
@@ -16,18 +26,23 @@ I'm a Civil Engineer who has transitioned into the world of **Data Science and M
 
 Explore some of my work where I apply data science principles to diverse challenges:
 
-* [**Loan Eligibility Prediction**](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model) — Developed a machine learning model to automate and predict customer loan eligibility, optimizing financial decision-making for a housing finance company.
+*[**Loan Eligibility Prediction**](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model) — Built a machine learning model for Dream Housing Finance to automate loan eligibility decisions. The optimized Random Forest Classifier reached 85% accuracy, streamlining approvals and improving decision reliability.
+* [**Loan Eligibility Prediction**](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model) — Applied unsupervised machine learning (K-Means, Hierarchical Clustering) to segment a credit card company's customer base into distinct profiles. This analysis successfully identified a critical "High-Risk Defaulter" segment, enabling the development of targeted risk mitigation strategies.
 * [**Global Literacy Rates Analysis**](https://github.com/Elsie-Muhumuza/Literacy-Rates-Analysis) — Conducted an in-depth data analysis to uncover regional disparities and gender gaps in global literacy, providing strategic recommendations for a non-profit organization's targeted educational interventions.
-* [**Footwear Sales Data Analysis**](https://github.com/Elsie-Muhumuza/Footwear-Sales-Data-Analysis) — Performed visual analytics on sales data to identify key trends and patterns for a footwear company, directly supporting business strategy and inventory management.
+* [**Footwear Sales Data Analysis**](https://github.com/Elsie-Muhumuza/Footwear-Sales-Data-Analysis) — Performed visual analytics on sales data to identify key trends and patterns for a footwear company. Found top-performing brands that generated 60%+ of net profit, guiding inventory allocation and marketing strategies.
+  
 
 ---
 
 ### **🎯 Continuous Growth**
 
-I am committed to continuous learning and expanding my skill set to tackle more complex data challenges:
+I am committed to continuous learning and expanding my expertise in data science and machine learning:
 
-* **Advanced Machine Learning Algorithms:** Deepening my understanding and application of cutting-edge ML techniques.
-* **SQL for Data Science:** Enhancing my data querying and manipulation capabilities for large databases.
+- **Publishing impactful ML projects** on GitHub (e.g., loan prediction, literacy analysis, customer segmentation).  
+- Practicing **end-to-end workflows**: Data Collection → EDA → Feature Engineering → Model Building → Evaluation → Insights.  
+- Expanding into **Deep Learning & Neural Networks** with TensorFlow and Keras.  
+- Strengthening **SQL for Data Science** for advanced querying and data manipulation.  
+
 
 ---
 
