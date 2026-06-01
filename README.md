@@ -15,11 +15,9 @@ A highly analytical professional with a background in Civil Engineering and spec
 ### **🔧 Skills & Tools**
 - **Languages:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn, Logistic Regression, Decision Trees, Random Forests, Classification & Regression Models  
+- **Machine Learning:** Scikit-learn, Logistic Regression, Decision Trees, Random Forests, Classification & Regression Models, TensorFlow, Keras, Deep Learning 
 - **Data Handling:** Jupyter Notebook, Google Colab, Excel, CSV/JSON handling  
 - **Version Control:** Git, GitHub  
-- **Currently Learning:** TensorFlow, Keras, Deep Learning  
-
 ---
 
 ### **📂 Featured Projects**
