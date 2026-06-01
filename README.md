@@ -40,8 +40,8 @@ I am committed to continuous learning and expanding my expertise in data science
 
 - **Publishing impactful ML projects** on GitHub (e.g., loan prediction, literacy analysis, customer segmentation).  
 - Practicing **end-to-end workflows**: Data Collection → EDA → Feature Engineering → Model Building → Evaluation → Insights.  
-- Expanding into **Deep Learning & Neural Networks** with TensorFlow and Keras.  
-- Strengthening **SQL for Data Science** for advanced querying and data manipulation.  
+- **Deep Learning & Neural Networks** with TensorFlow and Keras.  
+- **SQL for Data Science** for advanced querying and data manipulation.  
 
 
 ---
